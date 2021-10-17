@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979696525592",
+    "firebase_url": "https://woozeee-d7f6c.firebaseio.com",
+    "project_id": "woozeee-d7f6c",
+    "storage_bucket": "woozeee-d7f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979696525592:android:d2cfcc0739ac611bdcfe6d",
+        "android_client_info": {
+          "package_name": "app.woozeee.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979696525592-gjddn7tafhje4d5hn8o762d6s29f6ogg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBObrAwCMVNTlmKSrdg0M1kqe7ou4GRgSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979696525592-gjddn7tafhje4d5hn8o762d6s29f6ogg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "979696525592-oi481tbbn0pp9htv408l99vh6fa08e3o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.woozeee.com",
+                "app_store_id": "1549457766"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

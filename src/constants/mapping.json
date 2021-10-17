@@ -1,0 +1,166 @@
+{
+  "strict": {
+    "text-font-family": "montserrat-regular",
+
+    "text-heading-1-font-weight": "600",
+    "text-heading-1-font-family": "montserrat-semiBold",
+
+    "text-heading-2-font-weight": "600",
+    "text-heading-2-font-family": "montserrat-semiBold",
+
+    "text-heading-3-font-weight": "600",
+    "text-heading-3-font-family": "montserrat-semiBold",
+
+    "text-heading-4-font-size": 22,
+    "text-heading-4-font-weight": "600",
+    "text-heading-4-font-family": "montserrat-semiBold",
+
+    "text-heading-5-font-size": 18,
+    "text-heading-5-font-weight": "600",
+    "text-heading-5-font-family": "montserrat-semiBold",
+
+    "text-heading-6-font-size": 15,
+    "text-heading-6-font-weight": "600",
+    "text-heading-6-font-family": "montserrat-semiBold",
+
+    "text-subtitle-1-font-weight": "500",
+    "text-subtitle-1-font-family": "montserrat-medium",
+
+    "text-subtitle-2-font-weight": "500",
+    "text-subtitle-2-font-family": "montserrat-medium",
+
+    "text-paragraph-1-font-weight": "400",
+    "text-paragraph-1-font-family": "montserrat-regular",
+
+    "text-paragraph-2-font-weight": "400",
+    "text-paragraph-2-font-family": "montserrat-regular",
+
+    "text-caption-1-font-weight": "300",
+    "text-caption-1-font-family": "montserrat-light",
+
+    "text-caption-2-font-weight": "500",
+    "text-caption-2-font-family": "montserrat-medium",
+
+    "text-label-font-weight": "600",
+    "text-label-font-family": "montserrat-semiBold"
+  },
+  "components": {
+    "BottomNavigationTab": {
+      "meta": {
+        "scope": "mobile"
+      },
+      "appearances": {
+        "default": {
+          "mapping": {
+            "textFontSize": "text-label-font-size",
+            "textFontWeight": "text-label-font-weight",
+            "textFontFamily": "text-label-font-family",
+            "textColor": "text-hint-color",
+            "iconTintColor": "text-hint-color",
+            "state": {
+              "hover": {
+                "textColor": "text-primary-hover-color",
+                "iconTintColor": "text-primary-hover-color"
+              },
+              "selected": {
+                "textColor": "text-basic-color",
+                "iconTintColor": "text-basic-color"
+              }
+            }
+          }
+        }
+      }
+    },
+    "Input": {
+      "meta": {
+        "scope": "all"
+      },
+      "appearances": {
+        "default": {
+          "mapping": {
+            "textFontFamily": "montserrat-regular"
+          }
+        }
+      }
+    },
+    "Layout": {
+      "meta": {
+        "scope": "mobile",
+        "variantGroups": {
+          "level": {
+            "5": {
+              "default": false
+            },
+            "6": {
+              "default": false
+            }
+          }
+        }
+      },
+      "appearances": {
+        "default": {
+          "mapping": {},
+          "variantGroups": {
+            "level": {
+              "5": {
+                "backgroundColor": "background-basic-color-5"
+              },
+              "6": {
+                "backgroundColor": "background-basic-color-6"
+              }
+            }
+          }
+        }
+      }
+    },
+    "Divider": {
+      "meta": {
+        "scope": "all"
+      },
+      "appearances": {
+        "default": {
+          "mapping": {
+            "backgroundColor": "border-basic-color-5"
+          }
+        }
+      }
+    },
+    "Tab": {
+      "meta": {
+        "scope": "all"
+      },
+      "appearances": {
+        "default": {
+          "mapping": {
+            "textFontSize": 14,
+            "textFontWeight": "text-label-font-weight",
+            "textColor": "text-basic-color",
+            "iconTintColor": "text-basic-color",
+            "state": {
+              "hover": {
+                "textColor": "text-primary-hover-color",
+                "iconTintColor": "text-primary-hover-color"
+              },
+              "selected": {
+                "textColor": "text-primary-color",
+                "iconTintColor": "text-primary-color"
+              }
+            }
+          }
+        }
+      }
+    },
+    "TabBar": {
+      "meta": {
+        "scope": "all"
+      },
+      "appearances": {
+        "default": {
+          "mapping": {
+            "backgroundColor": "background-basic-color-5"
+          }
+        }
+      }
+    }
+  }
+}

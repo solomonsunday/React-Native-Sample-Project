@@ -1,0 +1,26 @@
+{
+  "name": "woozeee",
+  "displayName": "woozeee",
+  "expo": {
+    "name": "woozeee",
+    "slug": "woozeee",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "splash": {
+      "image": "src/assets/images/drawable/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#043F7C"
+    },
+    "icon": "src/assets/images/drawable/icon.png",
+    "android": {
+      "package": "app.woozeee.com"
+    },
+    "ios": {
+      "requireFullScreen": true
+    },
+    "web": {
+      "favicon": "src/assets/images/drawable/favicon.png"
+    },
+    "description": "woozeee mobile app"
+  }
+}

@@ -1,0 +1,15 @@
+[
+  { "title": "Select" },
+  { "title": "It’s a spam" },
+  { "title": "Nudity or sexual activity" },
+  { "title": "Hate speech or symbol" },
+  { "title": "Violence or dangerous organisations" },
+  { "title": "Sale of illegal or regulated goods" },
+  { "title": "Bullying or harassment" },
+  { "title": "Intellectual property violation" },
+  { "title": "Suicide, self-injury or eating disorders" },
+  { "title": "Scam or Fraud" },
+  { "title": "False information" },
+  { "title": "I just don’t like it" },
+  { "title": "Others" }
+]

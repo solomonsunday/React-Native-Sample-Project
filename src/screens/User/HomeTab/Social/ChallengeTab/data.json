@@ -1,0 +1,127 @@
+[
+  {
+    "category": "Summer",
+    "content": [
+      {
+        "banner": "PJzQXxnN/back1.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-10"
+      },
+      {
+        "banner": "Gt1jnDNZ/back3.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-11"
+      },
+      {
+        "banner": "PJzQXxnN/back1.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-08"
+      },
+      {
+        "banner": "xjKRysNY/back2.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-10"
+      },
+      {
+        "banner": "Gt1jnDNZ/back3.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-09"
+      }
+    ]
+  },
+  {
+    "category": "Winter",
+    "content": [
+      {
+        "banner": "xjKRysNY/back2.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-10"
+      },
+      {
+        "banner": "Gt1jnDNZ/back3.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-11"
+      },
+      {
+        "banner": "PJzQXxnN/back1.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-08"
+      },
+      {
+        "banner": "Gt1jnDNZ/back3.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-10"
+      }
+    ]
+  },
+  {
+    "category": "Autumn",
+    "content": [
+      {
+        "banner": "Gt1jnDNZ/back3.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-10"
+      },
+      {
+        "banner": "Gt1jnDNZ/back3.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-11"
+      },
+      {
+        "banner": "xjKRysNY/back2.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-08"
+      },
+      {
+        "banner": "Gt1jnDNZ/back3.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-10"
+      },
+      {
+        "banner": "PJzQXxnN/back1.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-09"
+      },
+      {
+        "banner": "PJzQXxnN/back1.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-09"
+      },
+      {
+        "banner": "PJzQXxnN/back1.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-09"
+      }
+    ]
+  },
+  {
+    "category": "Spring",
+    "content": [
+      {
+        "banner": "PJzQXxnN/back1.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-10"
+      },
+      {
+        "banner": "Gt1jnDNZ/back3.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-11"
+      },
+      {
+        "banner": "PJzQXxnN/back1.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-08"
+      },
+      {
+        "banner": "xjKRysNY/back2.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-10"
+      },
+      {
+        "banner": "Gt1jnDNZ/back3.jpg",
+        "tag": "#woozeeeChallenge",
+        "dateAdded": "2021-01-09"
+      }
+    ]
+  }
+]
